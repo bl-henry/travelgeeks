@@ -1,0 +1,21 @@
+{
+  "name": "Travelgeeks",
+  "version": "3.8.0",
+  "release_date": "2021-02-25",
+  "license": "MIT",
+  "price_usd": "0",
+  "download_url": "https://blthemes.com/download/travelgeeks.zip",
+  "demo_url": "https://blthemes.com/travelgeeks/",
+  "information_url": "https://blthemes.com/travelgeeks/travelgeeks-info",
+  "credits": "Henry Saudale",
+  "credits_url": "",
+  "description": "Modern theme for travel bloggers.",
+  "features": {
+    "0": "Search functionality (require activated BlThemes Plugin).",
+    "1": "Categories appear automatically in the primary menu.",
+    "2": "Static pages are automatically added to the sidebar.",
+    "3": "Author profile with photo.",
+    "4": "Social media integration (Facebook, Twitter, Google+, etc.) and share buttons for Facebook and Twitter."
+  },
+  "author_username": "bl-henry"
+}
